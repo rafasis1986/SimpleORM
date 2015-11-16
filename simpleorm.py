@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-'''
-Created on Nov 13, 2015
-
-@author: rtorres
-'''
 from collections import OrderedDict
 import re
 import sqlite3
